@@ -1,0 +1,240 @@
+<html>
+/* Rectangle 7 */
+
+
+position: absolute;
+width: 1512px;
+height: 76px;
+left: 0px;
+top: 0px;
+
+background: #000000;
+
+
+/* Whiskerfur.tech/sign/in */
+
+
+position: absolute;
+width: 1500px;
+height: 64px;
+left: 12px;
+top: 12px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 10 */
+
+
+position: absolute;
+width: 1512px;
+height: 906px;
+left: 0px;
+top: 76px;
+
+background: #D9D9D9;
+
+
+/* Rectangle 8 */
+
+
+position: absolute;
+width: 1534px;
+height: 932px;
+left: -11px;
+top: 76px;
+
+background: linear-gradient(180deg, #2BB1CE 0%, rgba(51, 187, 146, 0.9375) 43.75%, rgba(84, 194, 161, 0) 100%);
+
+
+/* Rectangle 12 */
+
+
+position: absolute;
+width: 362px;
+height: 87px;
+left: 1031px;
+top: 330px;
+
+background: #D9D9D9;
+
+
+/* Rectangle 9 */
+
+
+position: absolute;
+width: 926px;
+height: 61px;
+left: 14px;
+top: 245px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 14 */
+
+
+position: absolute;
+width: 926px;
+height: 61px;
+left: 14px;
+top: 451px;
+
+background: #FFFFFF;
+
+
+/* WELCOME BACK USER, THANK YOU FOR USING WhiskerFur! */
+
+
+position: absolute;
+width: 1392px;
+height: 54px;
+left: 132px;
+top: 92px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 48px;
+
+color: #FFE0CC;
+
+
+
+/* Password */
+
+
+position: absolute;
+width: 564px;
+height: 51px;
+left: 14px;
+top: 384px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 44px;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 11 */
+
+
+position: absolute;
+width: 365px;
+height: 89px;
+left: 1028px;
+top: 328px;
+
+background: #FFE0CC;
+
+
+/* LOG IN SECURELY */
+
+
+position: absolute;
+width: 365px;
+height: 101px;
+left: 1031px;
+top: 350px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 48px;
+
+color: #000000;
+
+
+
+/* image 9 */
+
+
+position: absolute;
+width: 711px;
+height: 157px;
+left: 342px;
+top: 578px;
+
+background: url(image.png);
+
+
+/* image 10 */
+
+
+position: absolute;
+width: 711px;
+height: 178px;
+left: 342px;
+top: 780px;
+
+background: url(image.png);
+
+
+/* Email Address */
+
+
+position: absolute;
+width: 564px;
+height: 51px;
+left: 12px;
+top: 184px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 44px;
+
+color: #FFFFFF;
+
+
+
+/* John.green@icloud.com */
+
+
+position: absolute;
+width: 736px;
+height: 59px;
+left: 14px;
+top: 251px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 48px;
+
+color: #000000;
+
+
+
+/* ............... */
+
+
+position: absolute;
+width: 736px;
+height: 77px;
+left: 12px;
+top: 435px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 77px;
+
+color: #000000;
+</html>
